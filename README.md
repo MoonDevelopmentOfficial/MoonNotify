@@ -38,4 +38,4 @@ If when downloading the file, it does so with any name other than `MoonNotify`, 
 
  - [Discord.](https://discord.gg/QcMQzQFyMd)
  - [Youtube.](https://www.youtube.com/@MoonDevelopment_Official)
- - Cfx.re.
+ - [Cfx.re.](https://forum.cfx.re/u/moondevelopment_offi/summary)
