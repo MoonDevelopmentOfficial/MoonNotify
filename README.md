@@ -32,7 +32,7 @@ If when downloading the file, it does so with any name other than `MoonNotify`, 
 
 ## Preview
 
- - [Video.](https://streamable.com/cjwdk4)
+ - [Video.](https://www.youtube.com/watch?v=aCgVthfADto&t)
  
 ## Social Media
 
