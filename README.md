@@ -32,10 +32,11 @@ If when downloading the file, it does so with any name other than `MoonNotify`, 
 
 ## Preview
 
- - Coming Soon.
+ - [Video.](https://streamable.com/cjwdk4)
  
 ## Social Media
 
  - [Discord.](https://discord.gg/QcMQzQFyMd)
  - [Youtube.](https://www.youtube.com/@MoonDevelopment_Official)
  - [Cfx.re.](https://forum.cfx.re/u/moondevelopment_offi/summary)
+ - [Tebex.](https://moon-development-store.tebex.io)
