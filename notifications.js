@@ -13,9 +13,31 @@ window.addEventListener('message', function(event) {
 
     var alertDiv = document.createElement('div');
     alertDiv.className = `alert fade alert-simple alert-${alertType} alert-dismissible text-left font__family-montserrat font__size-16 font__weight-light brk-library-rendered rendered show`;
+
+    var icon;
+    switch (alertType) {
+        case 'success':
+            icon = '<i class="fa fa-check"></i>';
+            break;
+        case 'info':
+            icon = '<i class="fa fa-info-circle"></i>';
+            break;
+        case 'warning':
+            icon = '<i class="fa fa-exclamation-triangle"></i>';
+            break;
+        case 'error':
+            icon = '<i class="fa fa-times-circle"></i>';
+            break;
+        case 'primary':
+            icon = '<i class="fa fa-exclamation-circle"></i>';
+            break;
+        default:
+            icon = '';
+            break;
+    }
+
     alertDiv.innerHTML = `
-        <i class="start-icon far fa-check-circle faa-tada animated"></i>
-        <strong class="font__weight-semibold">${alertType.charAt(0).toUpperCase() + alertType.slice(1)}!</strong> ${message}
+        <strong class="font__weight-semibold">${icon}</strong> ${message}
     `;
 
     var notificationsContainer = document.getElementById('notifications');
